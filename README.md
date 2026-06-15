@@ -179,18 +179,6 @@ The analysis revealed that:
 - Seaborn
 - Jupyter Notebook
 
-  Electricity-Consumption-Pattern-Analysis/
-│
-├── notebooks/
-│   ├── 01_data_cleaning_and_eda.ipynb
-│   └── 02_community_detection_analysis.ipynb
-│
-├── images/
-│
-├── data/
-││
-└── README.md
-
 ## Author
 
 **Ikhda Akmalia Putri**
